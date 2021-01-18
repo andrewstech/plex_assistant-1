@@ -1,6 +1,6 @@
 {
   "domain": "plex_assistant",
-  "name": "Plex Assistant",
+  "name": "Plex Assistant-music",
   "documentation": "https://github.com/maykar/plex_assistant",
   "dependencies": [],
   "codeowners": ["@maykar"],
